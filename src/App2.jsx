@@ -95,7 +95,7 @@ function Navbar() {
           onClick={() => setMobileMenuOpen(false)}
           className="flex flex-row items-center justify-items-center text-lg sm:text-xl font-bold text-indigo-400 tracking-wide hover:text-indigo-300 transition"
         >
-          <img src="../src/assets/IMG_2436.PNG" className='w-[50px] h-[50px]' alt="" srcset="" />
+          <img src="./src/assets/IMG_2436.PNG" className='w-[50px] h-[50px]' alt="" srcset="" />
           <span className='font-serif text-green-800'>SSS</span> Printing Portal
         </Link>
 
